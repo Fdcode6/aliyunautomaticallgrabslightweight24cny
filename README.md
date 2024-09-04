@@ -13,7 +13,7 @@ access_key_secret=''
 注意，在脚本运行前请确认你的阿里云账号余额有24元的资金，否则订单会处理失败。
 
 
-#           image_id='e9363571cf2444aba422b17470285465', Ubuntu22.04
-            image_id='e9363571cf2444aba422b17470285465', debian
-#           plan_id='swas.s2.c2m1s40b30t1.un', 24元
-            plan_id='swas.s2.c2m2s60b30t2.un', 34元
+image_id='e9363571cf2444aba422b17470285465', Ubuntu22.04
+image_id='e9363571cf2444aba422b17470285465', debian
+plan_id='swas.s2.c2m1s40b30t1.un', 24元
+plan_id='swas.s2.c2m2s60b30t2.un', 34元
