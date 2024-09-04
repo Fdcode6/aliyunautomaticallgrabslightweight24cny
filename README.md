@@ -14,6 +14,9 @@ access_key_secret=''
 
 
 image_id='e9363571cf2444aba422b17470285465', Ubuntu22.04
+
 image_id='e9363571cf2444aba422b17470285465', debian
+
 plan_id='swas.s2.c2m1s40b30t1.un', 24元
+
 plan_id='swas.s2.c2m2s60b30t2.un', 34元
